@@ -1,0 +1,111 @@
+const Projects = [
+	{
+		id: 1,
+		name: "Aezaz Ali",
+		position: "React Developer",
+		imageUrl: "/images/first.jpg",
+		email: "aezaz@email.com",
+		phone: 222333222,
+		office: "999 North Building",
+		office_hours: "Tuesday and Friday 5:45-6:45pm or by Appointment",
+		description:
+			"Lorem ipsum dolor sit amet consectetur adipisicing elit. Est, illo fugit! Quam cupiditate fugiat dolor excepturi? Similique cum repellendus dolore consequatur. Ipsam incidunt atque totam dicta vel odit est nesciunt!",
+	},
+	{
+		id: 2,
+		name: "Muiz Saddique",
+		position: "Vue Developer",
+		imageUrl: "/images/Bird-two.jpg",
+		email: "muiz@gmail.com",
+		phone: 222333222,
+		office: "999 North Building",
+		office_hours: "Tuesday and Friday 5:45-6:45pm or by Appointment",
+		description:
+			"Lorem ipsum dolor sit amet consectetur adipisicing elit. Est, illo fugit! Quam cupiditate fugiat dolor excepturi? Similique cum repellendus dolore consequatur. Ipsam incidunt atque totam dicta vel odit est nesciunt!",
+	},
+	{
+		id: 3,
+		name: "Hamza Awan",
+		position: "React Developer",
+		imageUrl: "/images/Bird-three.jpg",
+		email: "aezaz@email.com",
+		phone: 222333222,
+		office: "999 North Building",
+		office_hours: "Tuesday and Friday 5:45-6:45pm or by Appointment",
+		description:
+			"Lorem ipsum dolor sit amet consectetur adipisicing elit. Est, illo fugit! Quam cupiditate fugiat dolor excepturi? Similique cum repellendus dolore consequatur. Ipsam incidunt atque totam dicta vel odit est nesciunt!",
+	},
+	{
+		id: 4,
+		name: "Basit Bhatti",
+		position: "Javascript Developer",
+		imageUrl: "/images/Bird-four.jpg",
+		email: "aezaz@email.com",
+		phone: 222333222,
+		office: "999 North Building",
+		office_hours: "Tuesday and Friday 5:45-6:45pm or by Appointment",
+		description:
+			"Lorem ipsum dolor sit amet consectetur adipisicing elit. Est, illo fugit! Quam cupiditate fugiat dolor excepturi? Similique cum repellendus dolore consequatur. Ipsam incidunt atque totam dicta vel odit est nesciunt!",
+	},
+	{
+		id: 5,
+		name: "Zubair bin hamid",
+		position: "Python Developer",
+		imageUrl: "/images/Bird-five.jpg",
+		email: "aezaz@email.com",
+		phone: 222333222,
+		office: "999 North Building",
+		office_hours: "Tuesday and Friday 5:45-6:45pm or by Appointment",
+		description:
+			"Lorem ipsum dolor sit amet consectetur adipisicing elit. Est, illo fugit! Quam cupiditate fugiat dolor excepturi? Similique cum repellendus dolore consequatur. Ipsam incidunt atque totam dicta vel odit est nesciunt!",
+	},
+	{
+		id: 6,
+		name: "Bilal Ahmed",
+		position: "Angular Developer",
+		imageUrl: "/images/Bird-six.jpg",
+		email: "aezaz@email.com",
+		phone: 222333222,
+		office: "999 North Building",
+		office_hours: "Tuesday and Friday 5:45-6:45pm or by Appointment",
+		description:
+			"Lorem ipsum dolor sit amet consectetur adipisicing elit. Est, illo fugit! Quam cupiditate fugiat dolor excepturi? Similique cum repellendus dolore consequatur. Ipsam incidunt atque totam dicta vel odit est nesciunt!",
+	},
+	{
+		id: 7,
+		name: "Umair Abbas Chaddar",
+		position: "Java Developer",
+		imageUrl: "/images/Bird-seven.jpg",
+		email: "aezaz@email.com",
+		phone: 222333222,
+		office: "999 North Building",
+		office_hours: "Tuesday and Friday 5:45-6:45pm or by Appointment",
+		description:
+			"Lorem ipsum dolor sit amet consectetur adipisicing elit. Est, illo fugit! Quam cupiditate fugiat dolor excepturi? Similique cum repellendus dolore consequatur. Ipsam incidunt atque totam dicta vel odit est nesciunt!",
+	},
+	{
+		id: 8,
+		name: "Shumail Abbasi",
+		position: "c++ Developer",
+		imageUrl: "/images/Bird-ten.jpg",
+		email: "aezaz@email.com",
+		phone: 222333222,
+		office: "999 North Building",
+		office_hours: "Tuesday and Friday 5:45-6:45pm or by Appointment",
+		description:
+			"Lorem ipsum dolor sit amet consectetur adipisicing elit. Est, illo fugit! Quam cupiditate fugiat dolor excepturi? Similique cum repellendus dolore consequatur. Ipsam incidunt atque totam dicta vel odit est nesciunt!",
+	},
+	{
+		id: 9,
+		name: "Daniyal Khan",
+		position: "C# Developer",
+		imageUrl: "/images/Bird-nine.jpg",
+		email: "aezaz@email.com",
+		phone: 222333222,
+		office: "999 North Building",
+		office_hours: "Tuesday and Friday 5:45-6:45pm or by Appointment",
+		description:
+			"Lorem ipsum dolor sit amet consectetur adipisicing elit. Est, illo fugit! Quam cupiditate fugiat dolor excepturi? Similique cum repellendus dolore consequatur. Ipsam incidunt atque totam dicta vel odit est nesciunt!",
+	},
+];
+export default Projects;

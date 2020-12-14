@@ -1,0 +1,32 @@
+
+.Search-bar-container{
+  height: 2.5em;
+  
+}
+.Search-field{
+border:none;
+padding: 0 .8em;
+background: #edeff0;
+border-top-left-radius: 3px;
+border-bottom-left-radius: 3px;
+width: 23em;
+font-size: 1em;
+border: 2px solid #d7dbdf;
+height: 100%;
+
+&:focus{
+  outline: none;
+}
+}
+.Search-icon-button{
+height: 110%;
+width: 3em;
+font-size: 1em;
+color: #edeff0;
+border: none;
+border-top-right-radius: 5px;
+border-bottom-right-radius: 5px;
+&--blue{
+  background: #061c33;
+}
+}

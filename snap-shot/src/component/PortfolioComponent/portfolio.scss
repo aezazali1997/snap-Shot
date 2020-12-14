@@ -1,0 +1,34 @@
+.image-grid-container{
+  width: 50%;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  row-gap: 10px;
+  column-gap: 10px;
+}
+.image-text-container{
+ width: 100%;
+   position: relative;
+}
+.link-container{
+  text-decoration: none;
+  cursor: pointer;
+}
+.link-container:hover .icon-container{
+  opacity: 80%;
+}
+.text-container{
+  font-weight: 500;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: larger;
+  color: #222;
+}
+.icon-container{
+  position: absolute;
+  left: 45%;
+  bottom: 50%;
+  text-align: center;
+  opacity: 0%;
+  transition: opacity .7s ease-in-out;
+  color: #222;
+}
